@@ -16,7 +16,7 @@ Some CSS rules were refactored to group certain selectors together that share th
  ```git clone``` https://github.com/ianahart/bc-horiseon.git
 
 ### Usage
-Open up the **index.html** in the rooter of the folder
+Open up the **index.html** in the root of the folder
 and explore the site.
 
 ### Visuals
